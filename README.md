@@ -22,7 +22,7 @@ I enjoy building clean, efficient, and user-friendly applications.
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](https://miyuw9.github.io/portfolio) 
+👉 [View Portfolio]([https://miyuw9.github.io/portfolio](https://miyuw9.github.io/portfolio/)) 
 
 ---
 
